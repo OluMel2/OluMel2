@@ -28,7 +28,7 @@
   </a>
 </p>
 <p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OluMel2=anuraghazra&layout=compact)
+  (https://github-readme-stats.vercel.app/api/top-langs/?OluMel2=anuraghazra&layout=compact)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=OluMel2" />
 </a>
