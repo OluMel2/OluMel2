@@ -3,7 +3,7 @@
 <p align="left">
 </p>
 
-*🌱 I’m currently learning Ruby(Ruby on rails)
+* 🌱 I’m currently learning Ruby(Ruby on rails)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
